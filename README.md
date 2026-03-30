@@ -67,14 +67,27 @@ Goal       : To secure the digital world, one vulnerability at a time.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshulrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshulrajput&theme=radical&hide_border=true&background=0d1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" />
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyanshulrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyanshulrajput&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&count_private=true" />
+</picture>
+
+<!-- Streak Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=priyanshulrajput&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=priyanshulrajput&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshulrajput&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" />
+<!-- Top Languages Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyanshulrajput&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyanshulrajput&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" />
+</picture>
 
 </div>
 
@@ -83,13 +96,22 @@ Goal       : To secure the digital world, one vulnerability at a time.
 ## 🚀 `> ls ~/projects`
 
 <a href="https://github.com/priyanshulrajput/FullStack_Dev_cu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshulrajput&repo=FullStack_Dev_cu&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=FullStack_Dev_cu&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=FullStack_Dev_cu&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  </picture>
 </a>
 <a href="https://github.com/priyanshulrajput/hello-cyber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshulrajput&repo=hello-cyber&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=hello-cyber&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=hello-cyber&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  </picture>
 </a>
 <a href="https://github.com/priyanshulrajput/ic.project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshulrajput&repo=ic.project&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=ic.project&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=priyanshulrajput&repo=ic.project&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9" />
+  </picture>
 </a>
 
 ---
